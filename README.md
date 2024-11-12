@@ -7,3 +7,5 @@ desarrollamos habilidades de python básico como:
 -manejo de listas y listas anidadas
 -bucles
 -condicionales.
+
+##sprint 2: python básico a continuación.
